@@ -153,14 +153,14 @@ Trả lời: Nếu gặp ảnh hoặc dữ liệu ngoài phạm vi cho phép, t�
 
 Kiểm tra trên GitHub trong thư mục `report/`:
 
-- [ ] `REPORT.md` (file này đã điền)
-- [ ] `day1_lab_outputs/classification_predictions.json`
-- [ ] `day1_lab_outputs/detection_predictions.json`
-- [ ] `day1_lab_outputs/segmentation_predictions.json`
-- [ ] `day1_lab_outputs/IMAGE_ATTRIBUTION.md`
-- [ ] `day1_lab_outputs/visuals/classification_top5.png`
-- [ ] `day1_lab_outputs/visuals/detection_predictions.png`
-- [ ] `day1_lab_outputs/visuals/segmentation_prediction.png`
-- [ ] Ô validation cuối notebook báo `PASS`
-- [ ] Không có họ tên, MSSV hoặc dữ liệu nhạy cảm trong báo cáo/output
-- [ ] Đã nộp **link repository** trên LMS
+- [v] `REPORT.md` (file này đã điền)
+- [v] `day1_lab_outputs/classification_predictions.json`
+- [v] `day1_lab_outputs/detection_predictions.json`
+- [v] `day1_lab_outputs/segmentation_predictions.json`
+- [v] `day1_lab_outputs/IMAGE_ATTRIBUTION.md`
+- [v] `day1_lab_outputs/visuals/classification_top5.png`
+- [v] `day1_lab_outputs/visuals/detection_predictions.png`
+- [v] `day1_lab_outputs/visuals/segmentation_prediction.png`
+- [v] Ô validation cuối notebook báo `PASS`
+- [v] Không có họ tên, MSSV hoặc dữ liệu nhạy cảm trong báo cáo/output
+- [] Đã nộp **link repository** trên LMS
